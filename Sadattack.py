@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 ####################################->
 #4312644bf54db17180c8a95add9fdc06####-->uauauauauauauau
 #9dfb17e500b557a9d985c08da4fd0aaf#####--->We will fuck your site D:
